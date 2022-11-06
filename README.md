@@ -9,4 +9,8 @@
 
 >pkg upgrade
 
->
+>git clone https://github.com/Knownasjohnn/FB-HACK
+
+>cd FB-HACK
+
+>python fbhacking.py
