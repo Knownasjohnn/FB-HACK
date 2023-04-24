@@ -13,4 +13,4 @@
 
 >cd FB-HACK
 
->python fbhacking.py
+>python Fb-Hack.py
